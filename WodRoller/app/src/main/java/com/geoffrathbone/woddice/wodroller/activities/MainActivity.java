@@ -1,7 +1,9 @@
-package com.geoffrathbone.woddice.wodroller;
+package com.geoffrathbone.woddice.wodroller.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.geoffrathbone.woddice.wodroller.R;
 
 public class MainActivity extends AppCompatActivity {
 
