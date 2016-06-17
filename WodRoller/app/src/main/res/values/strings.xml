@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">Wod Roller</string>
     <string name="api_host_name">https://api.random.org/json-rpc/1/invoke</string>
+
+    <!-- Main activity strings -->
+    <string name="action_field_label">Action:</string>
+    <string name="action_field_hint">(optional)</string>
+    <string name="dice_field_label">Pool:</string>
+    <string name="roll_button_label">Roll</string>
+    <string name="chance_roll_button_label">Chance</string>
+    <string name="initiative_roll_button_label">Initiative</string>
+    <string name="no_rerolls_option_label">No reroll</string>
+    <string name="ten_again_option_label">10-again</string>
+    <string name="nine_again_option_label">9-again</string>
+    <string name="eight_again_option_label">8-again</string>
+    <string name="seven_again_option_label">7-again</string>
+    <string name="use_wp_option_label">Use WP</string>
+    <string name="rote_action_option_label">Rote action</string>
+    <string name="ones_subtract_option_label">1s subtract</string>
 </resources>

@@ -75,7 +75,7 @@ public class RandomApiUnitTest {
     }
 
     @Test
-    public void testTrueRandomNumberSource() throws Exception{
+    public void testTrueRandomNumberSource() throws Exception {
         TrueRandomNumberSource source = new TrueRandomNumberSource();
         int testQuantity = 50;
         ArrayList<Integer> testResult = source.generateRandomNumbers(testQuantity);
